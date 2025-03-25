@@ -1,5 +1,5 @@
 """
-03_06 - Challenge: Write your own evaluation function 
+03_06 - Challenge: Write your own evaluation function!!! 
         
         Go to line 216 for the challenge!
 
